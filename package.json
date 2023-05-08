@@ -1,11 +1,8 @@
 {
-  "dependencies": {
-    "rrweb": "^2.0.0-alpha.4"
-  },
-  "name": "session-recorder",
+  "name": "session-nilesh-recorder-test",
   "version": "1.0.0",
-  "main": "webpack.config.js",
-  "devDependencies": {},
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,11 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/nileshaggarwal/session-recorder.git"
   },
-  "author": "Nilesh",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nileshaggarwal/session-recorder/issues"
   },
-  "homepage": "https://github.com/nileshaggarwal/session-recorder#readme",
-  "description": ""
+  "homepage": "https://github.com/nileshaggarwal/session-recorder#readme"
 }
